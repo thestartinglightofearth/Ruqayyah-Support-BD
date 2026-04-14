@@ -1,5 +1,5 @@
 # Ruqyah Support BD (RuqyahBD)
-
+![Ruqyah Support BD](https://raw.githubusercontent.com/thestartinglightofearth/Ruqayyah-Support-BD/refs/heads/main/Screenshot_20260414-061612_1.png)
 এই অ্যাপটি [RuqyahBD](https://ruqyahbd.org/) ব্লগের পোস্টগুলো সরাসরি Android ডিভাইসে দেখার জন্য তৈরি করা হয়েছে।  
 
 ---
